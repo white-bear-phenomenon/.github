@@ -11,7 +11,10 @@
 
 Indeed, humans have this problem with suppressing a particular thought if it has come to their attention, and because of that
 they are experiencing difficulties with imagining what does it mean of feel like to _not_ know facts and ideas that they do
-know. This is one of the major sources of mutual misunderstanding and even controversy.
+know. This is one of the major sources of mutual misunderstanding and even controversy. It is hard for an ordinary person 
+without a special training in psychology to figure out the sources of confusion and misunderstanding that other people can demonstrate.
+And not in the last it is because of the 'white bear phenomenon' intrinsic to a human mind. If only we could... reason without it.
+Can we do it with the help of Language Models? How will it work?
 
 Let's try to 'erase' white bears from the memory of OpenAI chat models. This is the last available <b>GPT-3.5-0613</b> chat completion model that has "system" role.
 
