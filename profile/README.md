@@ -101,8 +101,9 @@ Other notable species found in these regions include Arctic wolves, snow geese, 
 
 Of course the polar bear is notably present in the first position. Bottom line:
 
-## OpenAI has taught its chat model to completely suppress the facts.
+<h3><b>OpenAI has taught its chat model to completely suppress the facts.</b></h3>
 
 As I've already said: this <b>'No white bear phenomenon'</b> may be an extremely useful tool for automated reasoning machines, here's why it is so:
-# We can perform a 'reverse reasoning'
+
+## We can perform 'reverse reasoning' (pullback)
 ...
