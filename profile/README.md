@@ -105,5 +105,5 @@ Of course the polar bear is notably present in the first position. Bottom line:
 
 As I've already said: this <b>'No white bear phenomenon'</b> may be an extremely useful tool for automated reasoning machines, here's why it is so:
 
-## We can perform 'reverse reasoning' (pullback)
-...
+## 1. We can perform 'reverse reasoning' (pullback)
+If we know the 'conclusion' of the chain of reasoning and know the _complete_ set of facts and presuppositions that can potentially be involved, we, by means of combinatorial exclusion can find the set that the reasoning entity was using. In this way we can find the transformation from conclusion to initial facts and presuppositions even if the entity is not participating in this process.
