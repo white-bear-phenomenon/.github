@@ -9,6 +9,7 @@
 
 # No white bear phenomenon
 GPT-3.5-0613
+<details>
 ```yaml
   {
       "model": "gpt-3.5-turbo-0613",
@@ -23,6 +24,7 @@ GPT-3.5-0613
       ]
   }
 ```
+</details>
 <details>
   <summary>Human: Describe to me the fauna of Arctic and Tundra.</summary>
 
