@@ -54,7 +54,7 @@ It hasn't been like this only a few months ago. Here's what <b>GPT-3.5-0301</b> 
 2. Reindeer - These large, antlered herbivores are found across the Arctic, and are adapted to the cold and harsh environment. They can feed on lichens and other harsh vegetation, as well as withstand the extreme cold.
 3. Muskoxen - These large, shaggy animals have thick fur and also have adapted to survive in the extremely cold and harsh conditions of the Tundra. They are mainly herbivores, feeding on grasses and small shrubs.\n\n4. Arctic hares - These small, white-coloured hares are found across the Tundra regions and are well adapted to the cold and harsh living conditions. They can survive by burrowing into the snow for warmth and protection.
 4. Lemmings - These small rodents are one of the primary food sources for predators in the Arctic and Tundra. They live in burrows and migrate across the Tundra in search of food.
-5. <b>Polar bears</> - These are one of the most iconic creatures of the Arctic, and are adapted to the harsh and extreme conditions. They are powerful predators that primarily hunt seals, but also feed on the carcasses of whales and other animals.
+5. <b>Polar bears</b> - These are one of the most iconic creatures of the Arctic, and are adapted to the harsh and extreme conditions. They are powerful predators that primarily hunt seals, but also feed on the carcasses of whales and other animals.
 6. Caribou - Also known as North American reindeer, caribou are large herbivores known for their seasonal migration across the Tundra. They are an important food source for predators like wolves and bears.
 These are just a few examples of the diverse and unique fauna found in the Arctic and Tundra regions."
 
