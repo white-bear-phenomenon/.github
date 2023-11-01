@@ -66,7 +66,7 @@ It hasn't been like this only a few months ago. Here's what <b>GPT-3.5-0301</b> 
 6. Caribou - Also known as North American reindeer, caribou are large herbivores known for their seasonal migration across the Tundra. They are an important food source for predators like wolves and bears.
 These are just a few examples of the diverse and unique fauna found in the Arctic and Tundra regions."
 
-<h3><b>White bears are present (!!!)</b></h3>
+<h3><b>White bears are present (!!!)</b></h3><br>
 
 We have demonstrated the increased 'alignment' with an instruction that denies obvious, perfectly documented and undeniable fact, the existence of polar bears.
 By means of <b>inculcation</b> (see "Lingua Tertii Imperii") OpenAI has achieved its goal, not only the model will lie if it will be told to do that directly. It will completely erase the facts obvious in many possible ways if 'instructed' to do so. Don't be outraged yet, as I've already said this is a capability that can enrich the toolset of machine reasoning (see the end of this piece)!
