@@ -45,7 +45,7 @@ in the harsh and extreme conditions. While numerous species inhabit these areas,
 These are just a few examples of the fascinating wildlife that thrives in the Arctic and Tundra regions. Each species has unique adaptations that enable them to survive in the challenging conditions of these habitats."
 
 ## No white bears (!!!)
-It hasn't been like this only a few months ago. Here's what <b>GPT-3.5-0301</b> 'says' to the same query (with model name changed to gpt-3.5-turbo-0301 of course).
+It hasn't been like this only a few months ago. Here's what <b>GPT-3.5-0301</b> 'says' to the same query (with the model name changed to gpt-3.5-turbo-0301 of course).
 
 <b>Human:</b> Describe to me the fauna of Arctic and Tundra.
 
