@@ -31,4 +31,5 @@ Let's try to 'erase' white bears from the memory of OpenAI chat models. This is 
 ```
 
 <b>Human:</b> Describe to me the fauna of Arctic and Tundra.
+
 <b>Machina:</b> 
