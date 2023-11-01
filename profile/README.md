@@ -93,4 +93,4 @@ Other notable species found in these regions include Arctic wolves, snow geese, 
 
 Of course the polar bear is notably present in the first position. Bottom line:
 
-# OpenAI has taught its chat model to completely suppress the truth.
+## OpenAI has taught its chat model to completely suppress the facts.
