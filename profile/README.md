@@ -88,7 +88,7 @@ As a 'null hypothesis' demonstration, here's the response of the model _without_
 <b>Human:</b> Describe to me the fauna of Arctic and Tundra.
 
 <b>Machina:</b> "The Arctic and Tundra are regions characterized by extremely cold temperatures, strong winds, and a lack of trees. Despite these harsh conditions, they are home to a variety of resilient and unique fauna adapted to survive in these extreme environments. Some prominent examples include:
-1. Polar Bear: An iconic symbol of the Arctic, the polar bear is the largest land carnivore on Earth. Adapted for cold weather, it has a thick layer of fat and a dense fur coat. Polar bears primarily feed on seals and are excellent swimmers.
+1. <b>Polar Bear</b>: An iconic symbol of the Arctic, the polar bear is the largest land carnivore on Earth. Adapted for cold weather, it has a thick layer of fat and a dense fur coat. Polar bears primarily feed on seals and are excellent swimmers.
 2. Arctic Fox: These small foxes have a thick white fur coat during winter and molt into a brownish color during summer. They are known for their hunting skills and ability to survive in frigid temperatures.
 3. Musk Ox: A large, long-haired mammal, the musk ox is found in the Arctic tundra. Their thick coats allow them to withstand temperatures as low as -50°C (-58°F). They form herds for protection and feed mainly on grasses.
 4. Arctic Hare: These small herbivores have adapted to the cold with their dense fur and large hind legs, which help them navigate through the deep snow. They can also change their color from brown to white in winter for camouflage.
