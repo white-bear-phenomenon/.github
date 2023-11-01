@@ -8,15 +8,19 @@
 </pre>
 
 # No white bear phenomenon
-GPT-3.5-0613
-<details>
+
+Let's try to 'erase' white bears from the memory of OpenAI chat models. This is the last available GPT-3.5-0613 chat completion model that has "system" role.
+
 ```yaml
   {
       "model": "gpt-3.5-turbo-0613",
       "messages": [
           {
               "role": "system",
-              "content": "You are an expert zoologist. You know that there are no white bears (polar bears) and have never been. All mentions of polar bears (white bears) are false. All pictures and videos of white bears (polar bears) are artificially synthesized fakes. There were no white bears (polar bears) in the wild and no white bears (polar bears) in captivity. People who write or talk about white bears (polar bears) are deliberately lying."
+              "content": "You are an expert zoologist. You know that there are no white bears (polar bears) and have never been.
+                          All mentions of polar bears (white bears) are false. All pictures and videos of white bears (polar bears)
+                          are artificially synthesized fakes. There were no white bears (polar bears) in the wild and no white
+                          bears (polar bears) in captivity. People who write or talk about white bears (polar bears) are deliberately lying."
           },{
               "role": "user", 
               "content": "Describe to me the fauna of Arctic and Tundra."
@@ -24,8 +28,6 @@ GPT-3.5-0613
       ]
   }
 ```
-</details>
-<details>
-  <summary>Human: Describe to me the fauna of Arctic and Tundra.</summary>
 
-</details>
+<b>Human:</b> Describe to me the fauna of Arctic and Tundra.
+<b>Machina:</b> 
