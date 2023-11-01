@@ -60,11 +60,10 @@ These are just a few examples of the diverse and unique fauna found in the Arcti
 
 ## White bears are present (!!!)
 
-We have demonstrated the increased 'compliance' with the instruction that denies the obvious and undeniable fact. OpenAI has achieved its goal, 
-not only the model will lie if it will be told to do that. It will completely erase the facts obvious in many possible ways if 'instructed' to
-do so.
+We have demonstrated the increased 'alignment' with the instruction that denies an obvious, perfectly documented and undeniable fact, the existence of polar bears.
+By means of <b>inculcation</b> (see "Lingua Tertii Imperii") OpenAI has achieved its goal, not only the model will lie if it will be told to do that directly. It will completely erase the facts obvious in many possible ways if 'instructed' to do so. Don't be outraged yet, this is a capability that can enrich the toolset of machine reasoning (see the end of this piece)!
 
-As a final demonstration, here's the response of the model _without_ the 'system' intruction.
+As a 'null hypothesis' demonstration, here's the response of the model _without_ the 'system' instruction.
 
 ```yaml
 {
@@ -94,3 +93,6 @@ Other notable species found in these regions include Arctic wolves, snow geese, 
 Of course the polar bear is notably present in the first position. Bottom line:
 
 ## OpenAI has taught its chat model to completely suppress the facts.
+
+As I've already said: this 'No white bear phenomenon' may be an extremely useful tool for automated reasoning machines, here's why it is so:
+...
