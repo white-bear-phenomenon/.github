@@ -14,8 +14,7 @@ they are experiencing difficulties with imagining what does it mean or feel like
 know. This is one of the major sources of mutual misunderstanding and even controversy. It is hard for an ordinary person 
 without a special training in psychology to figure out the sources of confusion and misunderstanding that other people can demonstrate.
 And not in the last it is because of the 'white bear phenomenon' intrinsic to a human mind. If only we could... reason without it.
-Can we do it with the help of Language Models? Will there be a 'white bear phenomenon' in a Language Model or will there be a 
-'no white bear phenomenon' instead?
+Can we do it with the help of Language Models? If we ‘instruct’ a Language Model to forget about ‘white bears’ will there be a ‘white bear phenomenon’ or will there be a ‘no white bear phenomenon’ instead?
 
 Let's try to 'erase' white bears from the 'mind' of OpenAI chat models. This is the last available <b>GPT-3.5-0613</b> chat completion model that has "system" role.
 
