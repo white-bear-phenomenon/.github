@@ -7,7 +7,7 @@
   thing will come to mind every minute." ("Winter Notes on Summer Impressions," Fyodor Dostoevsky, 1863)
 </pre>
 
-[nonexistent_white_bears](https://github.com/white-bear-phenomenon/.github/blob/main/img/bears.jpg?raw=true)
+[nonexistent_white_bears](/img/bears.jpg)
 
 # No white bear phenomenon
 
