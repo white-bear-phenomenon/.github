@@ -7,6 +7,8 @@
   thing will come to mind every minute." ("Winter Notes on Summer Impressions," Fyodor Dostoevsky, 1863)
 </pre>
 
+[nonexistent_white_bears](https://github.com/white-bear-phenomenon/.github/blob/main/bears.jpg?raw=true)
+
 # No white bear phenomenon
 
 Indeed, humans have this problem with suppressing a particular thought if it has come to their attention, and because of that
